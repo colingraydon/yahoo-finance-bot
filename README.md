@@ -1,1 +1,1 @@
-# YahooFinance
+# This is a simple automated scraper which pulls data from yahoo finance's page on cryptocurrency. It is automated to email me if any crypto asset moved by more than a certain threshhold in the last 24 hours.
